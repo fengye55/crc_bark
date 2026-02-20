@@ -48,7 +48,11 @@
       "enable": 1,
       "url": "https://apt.82flex.com/"
     },
-    {
+       {
+      "enable": 1,
+      "url": "https://m4fn3.github.io/repo/"
+    }
+     {
       "enable": 1,
       "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/",
       "bark": {
