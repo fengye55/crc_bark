@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 com.nan.3dbadgeclear,3DBadgeClear,1.6.8,iphoneos-arm
-com.nan.apfs-deletefs,APFS Deletefs,0.2.0,iphoneos-arm
+com.nan.apfs-deletefs,APFS Deletefs,0.2.1,iphoneos-arm
 com.nan.apfs-snapshot,APFS Snapshot,0.1.0,iphoneos-arm
 com.nan.appdatamanager,Apps Manager,1.6.0-2,iphoneos-arm
 com.nan.appstoreplusplus,AppStore++,0.9.12,iphoneos-arm
