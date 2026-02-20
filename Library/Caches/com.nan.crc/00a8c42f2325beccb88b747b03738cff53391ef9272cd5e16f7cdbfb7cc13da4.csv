@@ -1,10 +1,10 @@
 Package,Name,Version,Architecture
 com.nan.16player.zh-hans,zh-Hans for 16Player,0.1.0,iphoneos-arm64e
-com.nan.aaaa,Add AppBundles and AppDataContainers,0.2.0-0,iphoneos-arm64e
+com.nan.aaaa,Add AppBundles and AppDataContainers,0.2.0-1,iphoneos-arm64e
 com.nan.aential,Aential,0.1.0,iphoneos-arm64e
 com.nan.allemand,Allemand,0.1.0,iphoneos-arm64e
 com.nan.allemand-filza-script,FilzaScript Allemand,0.1.0,iphoneos-arm64e
-com.nan.alwaysdefaultbash,Always Default Bash,0.1.3,iphoneos-arm
+com.nan.alwaysdefaultbash,Always Default Bash,0.1.4,iphoneos-arm
 com.nan.appindex.zh-hans,zh-Hans for AppIndex,0.1.2,iphoneos-arm64e
 com.nan.bark,bark,0.3.2,iphoneos-arm64e
 com.nan.bindfs,mount_bindfs (Dopamine),0.5.5-1,iphoneos-arm64e
@@ -57,7 +57,7 @@ com.nan.realitytmp,Reality tmp,0.2.3,iphoneos-arm64e
 com.nan.rebirth,Rebirth,0.1.5,iphoneos-arm64e
 com.nan.resetfonts,reset fonts,0.1.5,iphoneos-arm64
 com.nan.sabotageocsp,Sabotage OCSP,0.3.1,iphoneos-arm64e
-com.nan.sccbav,Small CC Brightness and Volume,0.1.2,iphoneos-arm
+com.nan.sccbav,Small CC Brightness and Volume,0.1.3,iphoneos-arm
 com.nan.sentinel.zh-hans,zh-Hans for Sentinel,0.1.2,iphoneos-arm
 com.nan.settingsrevamp.zh-hans,zh-Hans for SettingsRevamp,0.1.2,iphoneos-arm64e
 com.nan.shuffle.zh-hans,zh-Hans for Shuffle,0.1.0,iphoneos-arm64e
