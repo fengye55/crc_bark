@@ -13,7 +13,7 @@
     "sound": "silence"
   },
   "enable": 1,
-  "use_name": 1,
+  "use_name": 0,
   "filter_architecture": "all",
   "source": [
     {
