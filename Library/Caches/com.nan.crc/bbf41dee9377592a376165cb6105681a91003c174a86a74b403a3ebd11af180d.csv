@@ -7,10 +7,10 @@ com.xybp888.CallAssist14,电话助手iOS14-正式版,3.3.6,iphoneos-arm
 com.xybp888.callassist15,电话助手iOS15-正式版(Xina),2.0.2,iphoneos-arm
 com.xybp888.callassist15.fugu15,电话助手iOS15-正式版(Rootless),2.4.9,iphoneos-arm64
 com.xybp888.callassist15.roothiden,电话助手iOS15-正式版(Roothide),2.4.9,iphoneos-arm64e
-com.xybp888.callassist16.dopamine,电话助手iOS16-正式版(Rootless),2.2.2,iphoneos-arm64
-com.xybp888.callassist16.dopamine.roothide,电话助手iOS16-正式版(Roothide),2.2.2,iphoneos-arm64e
-com.xybp888.callassist17.dopamine,电话助手iOS17-正式版(Rootless),1.1.8,iphoneos-arm64
-com.xybp888.callassist17.roothide,电话助手iOS17-正式版(Roothide),1.1.8,iphoneos-arm64e
+com.xybp888.callassist16.dopamine,电话助手iOS16-正式版(Rootless),2.2.3,iphoneos-arm64
+com.xybp888.callassist16.dopamine.roothide,电话助手iOS16-正式版(Roothide),2.2.3,iphoneos-arm64e
+com.xybp888.callassist17.dopamine,电话助手iOS17-正式版(Rootless),1.1.9,iphoneos-arm64
+com.xybp888.callassist17.roothide,电话助手iOS17-正式版(Roothide),1.1.9,iphoneos-arm64e
 com.xybp888.disabledgesture,禁用底部切换APP手势,0.0.1-75,iphoneos-arm64
 com.xybp888.lockbutton,一键锁屏(Rootless),0.1-2,iphoneos-arm64
 com.xybp888.lockbutton17.roothide,一键锁屏-iOS17(Roothide),0.1-2,iphoneos-arm64e
