@@ -1,0 +1,26 @@
+Package,Name,Version,Architecture
+com.opa334.libsandy,libSandy,1.1.4,iphoneos-arm64
+com.xybp888.CallAssist11,电话助手iOS11-正式版,2.1-2,iphoneos-arm
+com.xybp888.CallAssist12,电话助手iOS12-正式版,2.5.3,iphoneos-arm
+com.xybp888.CallAssist13,电话助手iOS13-正式版,2.5.7,iphoneos-arm
+com.xybp888.CallAssist14,电话助手iOS14-正式版,3.3.6,iphoneos-arm
+com.xybp888.callassist15,电话助手iOS15-正式版(Xina),2.0.2,iphoneos-arm
+com.xybp888.callassist15.fugu15,电话助手iOS15-正式版(Rootless),2.4.9,iphoneos-arm64
+com.xybp888.callassist15.roothiden,电话助手iOS15-正式版(Roothide),2.4.9,iphoneos-arm64e
+com.xybp888.callassist16.dopamine,电话助手iOS16-正式版(Rootless),2.2.1,iphoneos-arm64
+com.xybp888.callassist16.dopamine.roothide,电话助手iOS16-正式版(Roothide),2.2.1,iphoneos-arm64e
+com.xybp888.callassist17.dopamine,电话助手iOS17-正式版(Rootless),1.1.7,iphoneos-arm64
+com.xybp888.callassist17.roothide,电话助手iOS17-正式版(Roothide),1.1.7,iphoneos-arm64e
+com.xybp888.disabledgesture,禁用底部切换APP手势,0.0.1-75,iphoneos-arm64
+com.xybp888.lockbutton,一键锁屏(Rootless),0.1-2,iphoneos-arm64
+com.xybp888.lockbutton17.roothide,一键锁屏-iOS17(Roothide),0.1-2,iphoneos-arm64e
+com.xybp888.magiciannojailbreak,魔术师(iOS11-iOS15),0.0.1-4681,iphoneos-arm
+com.xybp888.magiciannojailbreak.dopamine,魔术师(Rootless),0.0.1-529,iphoneos-arm64
+com.xybp888.magiciannojailbreak.fugu15,魔术师(iOS15),0.0.1-4258,iphoneos-arm64
+com.xybp888.magiciannojailbreak.roothide,魔术师(Roothide),0.0.1-4,iphoneos-arm64e
+com.xybp888.noapplemobilerepair,No Apple MobileRepair,0.0.1-91,iphoneos-arm
+com.xybp888.perfectdynamiclsland,灵动通知iOS16-正式版(Rootless),1.2-30,iphoneos-arm64
+com.xybp888.perfectdynamiclsland17,灵动通知iOS17-测试版(Rootless),0.0.7,iphoneos-arm64
+com.xybp888.perfectdynamiclsland17.roothide,灵动通知iOS17-测试版(Roothide),0.0.7,iphoneos-arm64e
+com.xybp888.perfectdynamiclsland.roothide,灵动通知iOS16-正式版(RootHide),1.2-30,iphoneos-arm64e
+preferenceloader,PreferenceLoader,2.2.7,iphoneos-arm64
