@@ -54,10 +54,6 @@
     },
     {
       "enable": 1,
-      "url": "https://apt.htv123.com/"
-    },
-    {
-      "enable": 1,
       "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/",
       "bark": {
         "icon": "https://invalidunit.github.io/bark_icons/bigboss/bigboss@3x.png",
